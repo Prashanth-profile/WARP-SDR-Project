@@ -2,7 +2,7 @@
 
 Please go through LABORATORY.docx to understand the project implementation details
 
-MAC Prototype project to prototype CSMA Protocol for IEEE 802.11
+Project to prototype CSMA MAC Protocol for IEEE 802.11
 
 Source Code to implement CSMA receiver side Protocol: receiversource.c and receiversource.h
 Source Code to implement CSMA transmitter side Protocol: EMAC_Packing.c and EMAC_Packing.h
